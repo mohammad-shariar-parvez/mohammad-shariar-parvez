@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shariar Parvez</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmsp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mrmsp-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-shariar-parve&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-shariar-parve" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmsp-dev" alt="mrmsp-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-shariar-parve" alt="mohammad-shariar-parve" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
